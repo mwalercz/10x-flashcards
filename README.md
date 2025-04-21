@@ -15,6 +15,7 @@
 ## Getting Started Locally
 
 1. **Clone the repository:**
+
    ```sh
    git clone <repository_url>
    cd 10x-flashcards
@@ -22,6 +23,7 @@
 
 2. **Install Node.js dependencies:**
    Make sure you are using Node version specified in the `.nvmrc` file (22.14.0):
+
    ```sh
    nvm install
    nvm use
@@ -59,4 +61,4 @@ This project is currently in the MVP stage, with core functionalities implemente
 
 ## License
 
-This project is licensed under the MIT License. 
+This project is licensed under the MIT License.
